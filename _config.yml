@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: MS-700 - Training - Managing Microsoft Teams
+description: Companion material and resources for the course 'Managing Microsoft Teams' delivery by Ricardo Cabral. 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
