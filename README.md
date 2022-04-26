@@ -9,6 +9,7 @@ Training for Microsoft Official Course (MOC) MS-700: Managing Microsoft Teams
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
 
 - [About the course](#about-the-course)
+- [Training documentation](#training-documentation)
 - [Exam certification](#exam)
 - [Hands-on Labs](#hands-on-labs)
 - [UI changes](#ui-changes)
@@ -35,13 +36,44 @@ This course is anyone who will manage Microsoft 365 Teams. This course is focus 
 
 Students in this course are interested in Microsoft Teams or in passing the Microsoft Teams Administrator Associate certification exam. 
 
+<br/>
 
-<<br/>
+**Prerequisites**
+- A proficient understanding of basic functional experience with Microsoft 365 services.
+- A proficient understanding of general IT practices, including using PowerShell.
+
+
+<br/>
 
 The overview of Microsoft Azure Certified is available [here](http://aka.ms/AzureTrainCertDeck).
 
 The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoster).
 
+
+
+<br/>
+
+[Return to top](#top)
+
+<br/>
+
+---
+
+<a id="exam" />
+
+<br/>
+ 
+ 
+## Training documentation
+
+- The official documentation on the course at Microsoft Learn [here](https://docs.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/r42pin7zdy7pn6)
+- Admin training for Microsoft Teams is available [here]](https://docs.microsoft.com/en-us/microsoftteams/itadmin-readiness)
+
+<br/>
+
+[Return to top](#top)
+
+<br/>
 
 ---
 
@@ -118,6 +150,7 @@ The oficial Hands-on Labs are available [**here**](https://github.com/MicrosoftL
 
 | Microsoft Tools and/or Workshops | Description |
 | --- | --- | 
+| [End-user training for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/instructor-led-training-teams-landing-page) | Get you up and running with Teams. |
 | [How to roll out Teams](https://docs.microsoft.com/en-us/microsoftteams/deploy-overview) |Recommended path to rolling out Teams. |
 | [Microsoft Teams Customer Success Kit](https://aka.ms/TeamsCustomerSuccess)  |  This kit contains a wide range of presentations, email templates, tips & tricks, and posters that you can use to roll out and drive the adoption of Teams in your organization. | 
 | [Office 365 Government Customers](https://docs.microsoft.com/en-us/microsoftteams/plan-for-government-gcc) | Plan for Microsoft 365 Government deployments |
@@ -160,14 +193,24 @@ Software list to run the hands-on labs is available [here](./LAB-SETUP.md)
 
 **Samples**
 
-- Dial plan normalization rules is available [**here**](https://docs.microsoft.com/microsoftteams/what-are-dial-plans#sample-normalization-rules?azure-portal=true)
-- Call Analytics reports tenant data is available [**here**](https://raw.githubusercontent.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness/live/Teams/downloads/locations-template.zip)
+| Sample |  URL |
+| --- | --- | 
+| Dial plan normalization rules is available      | [Link here](https://docs.microsoft.com/microsoftteams/what-are-dial-plans#sample-normalization-rules?azure-portal=true)|
+| Call Analytics reports tenant data is available | [Link here](https://raw.githubusercontent.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness/live/Teams/downloads/locations-template.zip)|
+| Microsoft Teams development samples from Microsof |  [Link here](https://github.com/OfficeDev/Microsoft-Teams-Samples) |
+| Microsoft Teams development samples from Microsoft 365 Platform Community |   [Link here](https://pnp.github.io/teams-dev-samples/) |
+| Sample apps from the Microsoft Teams store |  [Link here](https://github.com/OfficeDev/Microsoft-Teams-Samples) | 
 
 <br/>
 
 **Templates**
-- Power BI query templates for Call Quality Dashboard (CQD) reports in Teams is available [**here**](https://docs.microsoft.com/en-us/microsoftteams/cqd-power-bi-query-templates)
 
+| Template |  URL |
+| --- | --- | 
+| App templates for Microsoft Teams                | [Link here](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates) |
+| Create a custom team template in Microsoft Teams | [Link here](https://docs.microsoft.com/en-us/microsoftteams/create-a-team-template) |
+| Power BI query templates for Call Quality Dashboard (CQD) reports in Teams is available |  [Link here](https://docs.microsoft.com/en-us/microsoftteams/cqd-power-bi-query-templates) |
+| Microsoft Teams App Templates                    | [Link here](https://adoption.microsoft.com/microsoft-teams/app-templates/)
 
 
 <br/>
@@ -185,7 +228,6 @@ Software list to run the hands-on labs is available [here](./LAB-SETUP.md)
 ## Licensing & Pricing
 
 - [Microsoft 365 full subscription comparison table](https://go.microsoft.com/fwlink/?linkid=2139145)
-
 - [Azure AD External Identities licensing](https://docs.microsoft.com/azure/active-directory/b2b/licensing-guidance)
 - [Microsoft 365 licensing guidance for security & compliance](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensingguidance/microsoft-365-security-compliance-licensing-guidance)
 - [Microsoft 365 and Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
