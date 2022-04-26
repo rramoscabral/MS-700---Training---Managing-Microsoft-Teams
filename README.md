@@ -67,7 +67,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 ## Training documentation
 
 - The official documentation on the course at Microsoft Learn [here](https://docs.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/r42pin7zdy7pn6)
-- Admin training for Microsoft Teams is available [here]](https://docs.microsoft.com/en-us/microsoftteams/itadmin-readiness)
+- Admin training for Microsoft Teams is available [here](https://docs.microsoft.com/en-us/microsoftteams/itadmin-readiness)
 
 <br/>
 
