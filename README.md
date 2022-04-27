@@ -239,6 +239,7 @@ Software list to run the hands-on labs is available [here](./LAB-SETUP.md)
 - [Microsoft Teams Phone with Calling Plan](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
 - [Microsoft Teams service description](https://docs.microsoft.com/en-us/office365/servicedescriptions/teams-service-description)
 
+> **Note**: Some Microsoft Docs links may not work due to documentation changed in the `https://github.com/MicrosoftDocs/microsoft-365-docs` repository.
 
 
 <br/>
